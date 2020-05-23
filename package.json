@@ -1,0 +1,34 @@
+{
+  "name": "mechanicshopapi",
+  "version": "1.4.2",
+  "description": "A portfolio RESTful API CRUD demo project built using Node.js, Express.js, and a MySQL database with Sequelize ORM, displaying a work management system for a fictitious mechanic shop. Inspired by prior work for my mechanic. Enjoy!",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4",
+    "sequelize": "^5.21.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "REST",
+    "RESTful API",
+    "API",
+    "CRUD",
+    "Node.js",
+    "Express.js",
+    "MySQL",
+    "Sequelize ORM",
+    "backend",
+    "ORM"
+  ],
+  "author": "Ryan Hunter | GitHub handle: SystemsVanguard | Web: www.RyanHunter.org | Email: ryan@RyanHunter.org",
+  "license": "MIT"
+}

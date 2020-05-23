@@ -1,0 +1,5 @@
+PORT=8088  
+HOST=localhost
+USER=vanguard
+PASSWORD=myFakeW3bP@55W0rd!
+DB=codingvanguard

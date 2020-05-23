@@ -1,4 +1,4 @@
-# mechanicshopapi
+# Mechanic Shop API
 A portfolio RESTful API CRUD demo project built using Node.js, Express.js, and a MySQL database with Sequelize ORM, displaying a work management system for a fictitious mechanic shop. Inspired by prior work for my mechanic. Enjoy! React.js based front-end to come in a few days. 
 
 NO live demo just yet!! To be deployed to cloud host later this week. 
